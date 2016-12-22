@@ -1,0 +1,22 @@
+{
+  "name": "node_service_discovery_aws_dynamo",
+  "version": "1.0.0",
+  "description": "node service discovery for aws dynamo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nedvedyy/node_service_discovery_aws_dynamo.git"
+  },
+  "author": "Nedved <nedved.yang@gmail.com> (http://nedved.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nedvedyy/node_service_discovery_aws_dynamo/issues"
+  },
+  "homepage": "https://github.com/Nedvedyy/node_service_discovery_aws_dynamo#readme",
+  "dependencies": {
+    "aws-sdk": "*"
+  }
+}
